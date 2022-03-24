@@ -1,0 +1,23 @@
+body{
+background: url(../images/fondo.jpgs);
+text-align: center;
+background-size: 100px;
+}
+button{
+padding:12px 60px ;
+margin: 30px;
+font-size: 24px;
+background: #ffffff;
+color: #189c54;
+border-radius: 20px;
+border: 4px dashed #ffffff;
+cursor: pointer;
+transition: 0.5s;
+}
+
+button:hover{
+background: #ffffff;
+color: #000000
+padding: 12px 80px;
+transform: translatex 
+}
